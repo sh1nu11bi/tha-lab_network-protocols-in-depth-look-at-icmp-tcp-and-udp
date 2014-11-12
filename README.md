@@ -12,7 +12,8 @@ This lab requires the following THA virtual machines
 * Kali
 
 #### Lab Credentials
-Kali VM: root / toor
+
+* Kali VM: `root / toor`
 
 #### Setup
 1. Boot your THA Kali VM and login.
@@ -24,7 +25,7 @@ Kali VM: root / toor
     ```
 
 ##### Note
-* If the Kali VM network connection continually disconnects please reboot the VM.
+* If the Kali VM network connection continually disconnects simply reboot the VM.
 
 #### Start the lab
 * Follow the instructions for lab 1 found on your Kali machine at 
