@@ -21,7 +21,7 @@ This lab requires the following THA virtual machines
 2. Clone this repo on your Kali VM by opening a terminal and issuing the following command:
 
     ```bash
-    git clone git://github.com/madsec/tha-lab_network-protocols-in-depth-look-at-icmp-tcp-and-udp /root/THA/network-protocols
+    git clone https://github.com/madsec/tha-lab_network-protocols-in-depth-look-at-icmp-tcp-and-udp /root/THA/network-protocols
     ```
 
 ##### Note
